@@ -1,0 +1,3 @@
+﻿file1 > file2
+file2 > file4
+file1 > file5
